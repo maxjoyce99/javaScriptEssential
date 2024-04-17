@@ -1,0 +1,12 @@
+{
+    "articles": [
+      {
+        "title": "News 1",
+        "description": "This is a news article."
+      },
+      {
+        "title": "News 2",
+        "description": "This is a second news article."
+      }
+    ]
+}
